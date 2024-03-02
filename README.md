@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning --> Python, javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me --> E-mail me at : am.sc.u4aie23007@am.students.amrita.edu
-- ⚡ Fun fact --> I love music.
+- ⚡ Fun fact: I love music.
 - ❤️ Peace
 <!---
 apex-07/apex-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
